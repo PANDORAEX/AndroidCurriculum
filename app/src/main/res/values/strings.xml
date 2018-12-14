@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">案件管理</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_startdate">発生日：</string>
+    <string name="label_protype">工程区分：</string>
+    <string name="label_projectno">案件番号：</string>
+    <string name="label_status">状態：</string>
+    <string name="label_summary">概要：</string>
+    <string name="label_language">開発言語：</string>
+    <string name="label_projectname">案件名：</string>
+    <string name="label_customer">お客様担当者：</string>
+    <string name="label_charge">担当者：</string>
+    <string name="label_reviewer">レビュー者：</string>
+    <string name="label_remarks">備考：</string>
+    <string name="button_save">登録</string>
+    <string name="button_delete">削除</string>
+    <string name="label_releasedate">リリース日：</string>
+    <string name="button_login">ログイン</string>
+    <string name="label_logo">Welcome to 案件管理ボータル\n携帯アプリ版</string>
+    <string name="label_hint">ログインしてください</string>
+    <string name="label_username">ユーザ名：</string>
+    <string name="label_password">パスワード：</string>
+    <string name="button_clear">クリア</string>
+</resources>
